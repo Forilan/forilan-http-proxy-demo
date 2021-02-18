@@ -1,0 +1,14 @@
+{
+  "name": "forilan-http-proxy-demo",
+  "version": "1.0.0",
+  "main": "demo.js",
+  "scripts": {
+    "dev": "node-dev demo.js"
+  },
+  "author": "forilan",
+  "license": "MIT",
+  "dependencies": {
+    "forilan-http-proxy": "1.0.0"
+  },
+  "description": ""
+}
