@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "main": "demo.js",
   "scripts": {
-    "dev": "node-dev demo.js"
+    "dev": "node-dev demo.js",
+    "https": "node-dev https-demo.js"
   },
   "author": "forilan",
   "license": "MIT",
   "dependencies": {
-    "forilan-http-proxy": "1.0.0"
+    "forilan-http-proxy": "1.0.7"
   },
   "description": ""
 }
